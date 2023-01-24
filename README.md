@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/sharada-g/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://sharada-g.github.io/product-preview-card-component-main/)
 
 ## My process
 
