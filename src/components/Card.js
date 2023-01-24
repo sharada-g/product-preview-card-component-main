@@ -37,7 +37,7 @@ function Card() {
         </div>
 
         <button className="flex justify-center gap-2 items-center bg-Dark-cyan rounded-lg h-12 hover:bg-Very-dark-blue">
-          <img src="/images/icon-cart.svg" alt="cart icon" />
+          <img src="images/icon-cart.svg" alt="cart icon" />
           <span className="font-Montserrat font-semibold text-[14px] leading-[17px] text-White">
             Add to Cart
           </span>
