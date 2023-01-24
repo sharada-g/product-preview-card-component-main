@@ -6,7 +6,7 @@ function App() {
     <>
       <div className="absolute w-full h-full bg-Cream flex flex-col justify-center items-center">
         <Card />
-        <Footer />
+        {/* <Footer /> */}
       </div>
     </>
   );
