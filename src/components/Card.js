@@ -17,8 +17,8 @@ function Card() {
       </picture>
 
       <div className="h-full flex flex-col m-6 justify-between Mobile:h-auto Mobile:m-8">
-        <span className="font-Montserrat font-medium text-[12px] leading-[15px] tracking-[5px] text-Dark-grayish-blue">
-          PERFUME
+        <span className="font-Montserrat font-medium text-[12px] leading-[15px] tracking-[5px] text-Dark-grayish-blue uppercase">
+          perfume
         </span>
         <h1 className="font-Fraunces font-bold text-[32px] leading-8 text-Very-dark-blue">
           Gabrielle Essence Eau De Parfum
